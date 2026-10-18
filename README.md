@@ -21,3 +21,18 @@ My students are my toughest testers. If a 15-year-old can't figure out a screen 
 🛠️ Tech stack
 <p> <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,figma,git,github,wordpress,vscode&perline=11" alt="tech stack icons" /> </p>
 Also comfortable with: REST API integration · API testing · cross-browser testing · debugging · UX/UI design
+
+
+🚀 Featured projects
+Project	What it is	Built with
+🎵 Jack Harlow Musical Wordle	A music-themed twist on Wordle with a responsive UI	Show Image Show Image Show Image
+🦦 smiddycodes.com	My portfolio site, starring a Scottish sea otter and a '90s RPG theme	Show Image Show Image
+❌⭕ Tic-Tac-Toe	The classic game, built to practice game logic and interactive UI	Show Image Show Image Show Image
+🍽️ Rogue Pickings	A simple food website	Show Image Show Image
+🧪 Name Your Adventure (in progress)	A '90s-style chemistry RPG, made by a STEM teacher, where science and math power every single quest.	Show Image
+🔮 Project Oracle + Otter Coffee Chase	A Python program that picks your next project, plus a coffee-collecting browser game	Show Image
+📊 GitHub stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Garner365&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garner365&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garner365&theme=radical&hide_border=true" alt="GitHub streak" /> </p>
+💬 Ask me about
+Teaching coding to beginners · gamifying math and science · making UIs more accessible · '90s RPGs 🎮
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=100&section=footer" alt="footer" /> </p>
