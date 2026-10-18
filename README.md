@@ -26,11 +26,25 @@ Also comfortable with: REST API integration · API testing · cross-browser test
 🚀 Featured projects
 Project	What it is	Built with
 🎵 Jack Harlow Musical Wordle	A music-themed twist on Wordle with a responsive UI	Show Image Show Image Show Image
+
+
+
 🦦 smiddycodes.com	My portfolio site, starring a Scottish sea otter and a '90s RPG theme	Show Image Show Image
+
+
 ❌⭕ Tic-Tac-Toe	The classic game, built to practice game logic and interactive UI	Show Image Show Image Show Image
+
+
 🍽️ Rogue Pickings	A simple food website	Show Image Show Image
-🧪 Name Your Adventure (in progress)	A '90s-style chemistry RPG, made by a STEM teacher, where science and math power every single quest.	Show Image
-🔮 Project Oracle + Otter Coffee Chase	A Python program that picks your next project, plus a coffee-collecting browser game	Show Image
+
+
+🧪 Name Your Adventure (in progress)	A '90s-style chemistry RPG, made by a STEM teacher, where science and math power every single quest.	
+
+Show Image
+🔮 Project Oracle + Otter Coffee Chase	A Python program that picks your next project, plus a coffee-collecting browser game	
+
+
+Show Image
 📊 GitHub stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Garner365&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garner365&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garner365&theme=radical&hide_border=true" alt="GitHub streak" /> </p>
 💬 Ask me about
