@@ -1,76 +1,78 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Hey,%20I'm%20Erin%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Math%20teacher%20turned%20front-end%20developer&descAlignY=60&descSize=18" alt="header banner" />
-</p>
+<!-- ========== HERO ========== -->
+<a href="https://www.smiddycodes.com">
+  <img width="100%" src="https://raw.githubusercontent.com/Garner365/smiddycodes-portfolio/main/erin-cafe.png" alt="Illustration of Erin seated with her magical Scottish sea otter in a colorful seaside coffee shop" />
+</a>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=I+build+responsive%2C+accessible+web+apps;Turning+classroom+ideas+into+games;Currently+building+Name+Your+Adventure+%F0%9F%A7%AA;Open+to+front-end+%26+creative+tech+roles" alt="Typing SVG" />
+  <a href="https://www.smiddycodes.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3200&pause=900&color=F2C775&center=true&vCenter=true&width=720&height=60&lines=Welcome%2C+traveler.;Choose+a+quest.;Name+Your+Adventure+%F0%9F%A6%A6" alt="Welcome, traveler. Choose a quest." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.smiddycodes.com"><img src="https://img.shields.io/badge/Portfolio-smiddycodes.com-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/e-smith-448779118"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.teacherspayteachers.com/store/erin-smiths-secondary-math-stem-lab"><img src="https://img.shields.io/badge/STEM%20Lab-TpT%20Store-2CB67D?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+  <b>Erin Smith · Developer Quest</b><br />
+  <sub>STEM teacher · front-end developer · builder of games that teach</sub>
 </p>
 
----
+<p align="center">
+  <a href="https://www.smiddycodes.com"><img src="https://img.shields.io/badge/Enter_the_Portal-smiddycodes.com-E8B76C?style=for-the-badge&labelColor=164759&logo=googlechrome&logoColor=F2C775" /></a>
+  <a href="https://www.linkedin.com/in/e-smith-448779118"><img src="https://img.shields.io/badge/Party_Up-LinkedIn-E8B76C?style=for-the-badge&labelColor=164759&logo=linkedin&logoColor=F2C775" /></a>
+  <a href="https://www.teacherspayteachers.com/store/erin-smiths-secondary-math-stem-lab"><img src="https://img.shields.io/badge/Supply_Shop-STEM_Lab-E8B76C?style=for-the-badge&labelColor=164759&logo=bookstack&logoColor=F2C775" /></a>
+</p>
 
-## 🧑‍🏫 About me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D5A75E,100:164759&height=6" alt="" />
+
+## 🧝 Character profile
+
+> **Class:** Teacher-Developer &nbsp;·&nbsp; **Home base:** Dallas, TX &nbsp;·&nbsp; **Companion:** one magical Scottish sea otter 🦦
 
 I'm a **secondary math and STEM teacher who codes**. In the classroom I learned exactly where people get stuck, lose interest, or light up when something finally clicks. Now I build for the web with the same goal: interfaces that are clear, accessible, and a little bit fun.
 
-My students are my toughest testers. If a 15-year-old can't figure out a screen in five seconds, it's back to the drawing board.
-
-- 🎮 Currently building **Name Your Adventure**, a '90s-style chemistry RPG where science and math power every quest (demo planned for Spring 2027)
+- 🎮 **Current quest:** *Name Your Adventure*, a '90s-style chemistry RPG (demo planned for Spring 2027)
 - 🎨 I care about how a product *feels*, not just how it works
 - ♿ Accessibility and responsive design are defaults, not extras
-- 💼 Open to **software engineering and creative technology** opportunities
-- 📍 Dallas, TX · 🏠 working remotely
+- 💼 Open to **software engineering and creative technology** roles · 🏠 working remotely
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D5A75E,100:164759&height=6" alt="" />
 
-## 🛠️ Tech stack
+## 📖 Skill book
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,figma,git,github,wordpress,vscode&perline=11" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,figma,git,github,wordpress,vscode&perline=11&theme=dark" alt="JavaScript, React, HTML, CSS, Python, SQL, Figma, Git, GitHub, WordPress, VS Code" />
 </p>
 
-**Also comfortable with:** REST API integration · API testing · cross-browser testing · debugging · UX/UI design
+**Passive skills:** REST API integration · API testing · cross-browser testing · debugging · UX/UI design
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D5A75E,100:164759&height=6" alt="" />
 
-## 🚀 Featured projects
+## 🗺️ Quest log
 
-| Project | What it is | Built with |
-|---|---|---|
-| 🎵 [**Jack Harlow Musical Wordle**](https://github.com/Garner365/Jack-Musical-) | A music-themed twist on Wordle with a responsive UI | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
-| 🦦 [**smiddycodes.com**](https://github.com/Garner365/smiddycodes-portfolio) | My portfolio site, starring a Scottish sea otter and a '90s RPG theme | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
-| ❌⭕ [**Tic-Tac-Toe**](https://github.com/Garner365/Tic-Tac-Toe) | The classic game, built to practice game logic and interactive UI | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
-| 🍽️ [**Rogue Pickings**](https://github.com/Garner365/Rogue-pickings) | A simple food website | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
-| 🧪 **Name Your Adventure** *(in progress)* | A '90s-style chemistry RPG, made by a STEM teacher, where science and math power every single quest. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 🔮 **Project Oracle + Otter Coffee Chase** | A Python program that picks your next project, plus a coffee-collecting browser game | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+<a href="https://www.smiddycodes.com">
+  <img width="100%" src="https://raw.githubusercontent.com/Garner365/smiddycodes-portfolio/main/project-portal.png" alt="A small sea otter leads a party of pixel characters through a glowing doorway into a seaside cafe" />
+</a>
 
----
-
-## 📊 GitHub stats
+| | Quest | What happens | Built with |
+|:-:|---|---|---|
+| 🧪 | [**Name Your Adventure**](https://www.smiddycodes.com/chemistry.html) *· next quest* | A '90s-style chemistry RPG, made by a STEM teacher, where science and math power every single quest. | JavaScript |
+| 🎵 | [**Jack Harlow Musical Wordle**](https://github.com/Garner365/Jack-Musical-) | A music-themed twist on Wordle with a responsive UI | JavaScript · HTML · CSS |
+| 🦦 | [**smiddycodes.com**](https://github.com/Garner365/smiddycodes-portfolio) | My portfolio, built as a Developer Quest with a sea otter guide | HTML · CSS |
+| ❌ | [**Tic-Tac-Toe**](https://github.com/Garner365/Tic-Tac-Toe) | The classic game, built to practice game logic and interactive UI | JavaScript · HTML · CSS |
+| 🍽️ | [**Rogue Pickings**](https://github.com/Garner365/Rogue-pickings) | A simple food website | HTML · CSS |
+| 🔮 | [**Project Oracle**](https://github.com/Garner365/smiddycodes-portfolio/blob/main/python-quest.py) | A Python spell that picks your next project · plus the bonus level, *Otter Coffee Chase* ☕ | Python |
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Garner365&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garner365&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <a href="https://www.smiddycodes.com/chemistry.html">
+    <img width="70%" src="https://raw.githubusercontent.com/Garner365/smiddycodes-portfolio/main/chemistry-coming-soon.png" alt="Erin and her sea otter exploring chemistry in a magical Scottish lab" />
+  </a>
+  <br /><sub><b>🧪 New area unlocking soon:</b> Name Your Adventure · Spring 2027</sub>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garner365&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D5A75E,100:164759&height=6" alt="" />
 
----
+## ☕ Tavern talk
 
-## 💬 Ask me about
-
-Teaching coding to beginners · gamifying math and science · making UIs more accessible · '90s RPGs 🎮
+Ask me about teaching coding to beginners · gamifying math and science · making UIs more accessible · '90s RPGs
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=100&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164759,100:071E2A&height=130&section=footer&text=Save%20point%20reached&fontSize=22&fontColor=F2C775&fontAlignY=68" alt="Save point reached" />
 </p>
