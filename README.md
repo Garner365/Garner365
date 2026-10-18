@@ -14,3 +14,8 @@ My students are my toughest testers. If a 15-year-old can't figure out a screen 
 💼 Open to software engineering and creative technology opportunities
 
 📍 Dallas, TX · 🏠 working remotely
+
+
+🛠️ Tech stack
+<p> <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,figma,git,github,wordpress,vscode&perline=11" alt="tech stack icons" /> </p>
+Also comfortable with: REST API integration · API testing · cross-browser testing · debugging · UX/UI design
